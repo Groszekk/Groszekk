@@ -1,6 +1,6 @@
 WebDevelopment (backend)  
 Reverse Engineering Botting InfoSec and some Low Level stuff  
-Golang Rust C Assembly <3
+Golang C x86 Assembly JS <3
 GNU\Linux  
 Open Source  
 contact: gross.pawel@protonmail.com
