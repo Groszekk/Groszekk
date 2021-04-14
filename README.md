@@ -4,4 +4,3 @@ Golang C x86 Assembly JS <3
 GNU\Linux  
 Open Source  
 contact: gross.pawel@protonmail.com   
-site: https://groszekk.github.io
